@@ -64,5 +64,6 @@ if st.button("Calculate Tax"):
   else:
     st.error("Invalid input for residency. Please answer YES or NO.")
 
-st.title("🇲🇾 Malaysia Income Tax Calculator")
-st.write("Your new description goes right here.")
+st.title("🇲🇾 Check if you kena tax in 10 seconds! 👀💸 ")
+st.write("Remember to file & pay your tax on time so LHDN doesn't come knocking 🚪😅")
+
