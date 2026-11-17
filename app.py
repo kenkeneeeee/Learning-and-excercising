@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🇲🇾 Malaysia Income Tax Calculator")
+st.title("🇲🇾 Malaysia Income Tax Calculator by TK")
 
 resident = st.radio("Are you resident of Malaysia?", ["YES", "NO"])
 chargeable_income = st.number_input("Enter your chargeable income (RM):", min_value=0.0, step=1000.0)
