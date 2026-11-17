@@ -63,3 +63,6 @@ if st.button("Calculate Tax"):
       st.error("Your income Tax is unable to calculate, please try again.")
   else:
     st.error("Invalid input for residency. Please answer YES or NO.")
+
+st.title("🇲🇾 Malaysia Income Tax Calculator")
+st.write("Your new description goes right here.")
